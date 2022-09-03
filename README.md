@@ -1,4 +1,4 @@
-# Healthcare-AI
+# HeathCare-AI-UdemyCourse
 
 Tasked to improve the speed and accuracy of detecting and localizing brain tumors based on MRI scans.
  
